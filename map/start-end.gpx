@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="highpoint-maps" xmlns="http://www.topografix.com/GPX/1/1"><metadata><name>High Point — start and the spot</name></metadata>
+<wpt lat="41.32213" lon="-74.66045"><ele>536.4</ele><name>START — Monument lot</name><desc>Park here. Walk the Monument Trail northeast 0.23 mi (5 min).</desc><sym>Parking Area</sym></wpt>
+<wpt lat="41.32521" lon="-74.65851"><ele>526.1</ele><name>THE SPOT — 1727 NE of High Point</name><desc>1,727 ft along the trail NE of the monument; ground 1,726 ft. Search a 200 ft circle, east (downhill) side first.</desc><sym>Flag, Red</sym></wpt>
+<trk><name>Lot to the spot (Monument Trail)</name><trkseg><trkpt lat="41.322463" lon="-74.660628"></trkpt><trkpt lat="41.322509" lon="-74.660507"></trkpt><trkpt lat="41.322722" lon="-74.660329"></trkpt><trkpt lat="41.322759" lon="-74.660406"></trkpt><trkpt lat="41.323844" lon="-74.659468"></trkpt><trkpt lat="41.323816" lon="-74.659392"></trkpt><trkpt lat="41.323939" lon="-74.659301"></trkpt><trkpt lat="41.324160" lon="-74.659149"></trkpt><trkpt lat="41.324684" lon="-74.658939"></trkpt><trkpt lat="41.325211" lon="-74.658514"></trkpt></trkseg></trk>
+</gpx>
