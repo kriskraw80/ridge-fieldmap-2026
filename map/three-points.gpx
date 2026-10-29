@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="highpoint-maps" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>High Point - the two 1727 points</name></metadata>
+<wpt lat="41.32095" lon="-74.66160"><name>monument base (surveyed, NGS LY2607)</name><sym>Flag, Green</sym></wpt>
+<wpt lat="41.32511" lon="-74.65860"><name>point 2 - on the trail - 1727 ft from the monument base at 1727 ft elevation (bearing 28)</name><sym>Flag, Red</sym></wpt>
+<wpt lat="41.32481" lon="-74.65795"><name>point 3 - 208 ft below the trail - 1727 ft from the monument base at 1727 ft elevation (bearing 35)</name><sym>Flag, Blue</sym></wpt>
+</gpx>
